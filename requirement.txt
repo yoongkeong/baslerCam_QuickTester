@@ -1,0 +1,2 @@
+pypylon==1.7.2
+python==3.9.2
