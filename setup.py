@@ -8,6 +8,6 @@ setuptools.setup(name='basler_CQT_lite',
     author_email='yoongkeong.lim@baslerweb.com',
     license='MIT',
     packages=setuptools.find_packages(),
-    install_requires=['pypylon', 'python'],
+    install_requires=['pypylon'],
     test_suite='tests',
     )
