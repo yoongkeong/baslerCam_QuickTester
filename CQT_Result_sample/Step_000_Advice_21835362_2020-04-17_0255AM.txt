@@ -1,0 +1,42 @@
+************************* FINAL TESTING REPORT *************************
+TEST INFORMATION:
+ - Camera Model Name                         : acA2040-90um
+ - Camera Serial Number                      : 21835362
+ - Camera Product ID                         : N/A
+ - Camera Firmware Version                   : 107100-01;U;acA2040_90u;V1.1-3;0
+ - Camera Estimated Warranty Status          : Warranty estimated to expire sometime in 2019 or beyond.
+ - Pylon Version                             : 6.1.0.18286
+ - CameraQuickTester Version                 : 20.04-01
+ - CameraQuickTester Command-Line Arguments  : No arguments provided. Run with -? to see a list.
+ - Working Directory                         : D:\Basler\Windows\Pylon_6_1_0\64bit
+ - Location of Test-Generated Files          : .\CQT_Results_21835362_2020-04-17_0255AM\
+
+TEST RESULTS:
+ - Detect Camera                             : [PASSED]
+ - Connect to Camera                         : [PASSED]
+ - Access Camera                             : [PASSED]
+ - Device Temperature                        : [SKIPPED]
+ - Single Live-Image Grab (Current Settings) : [FAILED!]
+ - Camera-Generated Events                   : [PASSED]
+ - Single Live-Image Grab (Default Settings) : [PASSED]
+ - Single Test-Image Grab (Default Settings) : [PASSED]
+ - Continuous Image Grab (Default Settings)  : [PASSED]
+ - Image Quality                             : [No automatic test available. Please review the captured images.]
+ - Physical IO                               : [No automatic test available. Please manually test IO.]
+
+ADVICE LOG:
+ - FrameStart TriggerMode: Trigger is on. If you don't supply a trigger, no image will be taken (example: gray box in pylon viewer instead of live image.)
+ - GRAB TEST: WARNING - Grab Engine thread priority lower than recommended. Dropped Frames and/or performance issues may occur. Try running CQT as Administrator.
+ - OS Analyzer: "USB3 Link Power Management (LPM)" power setting is enabled (When On Battery). Highly recommend turning this off!
+ - OS Analyzer: "USB3 Link Power Management (LPM)" power setting is enabled (When Plugged In). Highly recommend turning this off!
+ - OS Analyzer: "Usb Selective Suspend" power setting is enabled (When On Battery). Highly recommend turning this off!
+ - OS Analyzer: LPM Note: Intel USB host controllers send very aggressive LPM packages that can interfere with detection of cameras at bootup.
+ - Possible broken input line detected (or your trigger signal is not working correctly).
+ - Temperature Test Skipped: This camera does not have a temperature sensor.
+ - TransferLoopThreadPriority: 15. Thread priority is low and may cause Payload Discarded errors. It should be in realtime priority class of 25-31. Try running this program as Administrator / sudo, or setting rtprio 99 (in linux)... 
+ - USB Host Analyzer: "USB3 Link Power Management (LPM)" power setting is enabled (When On Battery). Highly recommend turning this off!
+ - USB Host Analyzer: "USB3 Link Power Management (LPM)" power setting is enabled (When Plugged In). Highly recommend turning this off!
+ - USB Host Analyzer: "Usb Selective Suspend" power setting is enabled (When On Battery). Highly recommend turning this off!
+ - USB Host Analyzer: LPM Note: Intel USB host controllers send very aggressive LPM packages that can interfere with detection of cameras at bootup.
+ - You are using an FL1100 USB host controller that is not setup for large images. Contact Basler support for instructions on setting up BulkInRingBuffers.
+*********************** END FINAL TESTING REPORT ***********************

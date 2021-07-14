@@ -1,0 +1,63 @@
+
+SYSTEM INFORMATION: 
+
+Host Name:                 SQSNS1017
+OS Name:                   Microsoft Windows 10 Enterprise LTSC
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          CyberOptics
+Registered Organization:   
+Product ID:                00424-80001-84894-AAOEM
+Original Install Date:     20/1/2020, 5:22:03 PM
+System Boot Time:          12/4/2020, 11:52:39 PM
+System Manufacturer:       Default string
+System Model:              Default string
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~3001 Mhz
+                           [02]: Intel64 Family 6 Model 79 Stepping 1 GenuineIntel ~2993 Mhz
+BIOS Version:              American Megatrends Inc. 5.11, 11/6/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:     130,948 MB
+Available Physical Memory: 126,275 MB
+Virtual Memory: Max Size:  150,404 MB
+Virtual Memory: Available: 143,982 MB
+Virtual Memory: In Use:    6,422 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    AOI_SERIES
+Logon Server:              \\SQSNS1017
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4506998
+                           [02]: KB4480056
+                           [03]: KB4493478
+                           [04]: KB4493510
+                           [05]: KB4503308
+                           [06]: KB4493509
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) I210 Gigabit Network Connection
+                                 Connection Name: Ethernet 5
+                                 Status:          Media disconnected
+                           [02]: Intel(R) I210 Gigabit Network Connection
+                                 Connection Name: Ethernet 6
+                                 Status:          Media disconnected
+                           [03]: Intel(R) I210 Gigabit Network Connection
+                                 Connection Name: Ethernet 7
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.20.12.1
+                                 IP address(es)
+                                 [01]: 172.20.12.219
+                                 [02]: fe80::31d5:4d92:9399:e240
+                           [04]: Intel(R) I210 Gigabit Network Connection
+                                 Connection Name: Ethernet 8
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

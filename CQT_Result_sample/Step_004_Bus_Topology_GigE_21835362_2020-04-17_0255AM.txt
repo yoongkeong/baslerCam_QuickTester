@@ -1,0 +1,55 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SQSNS1017
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : cyberoptics.com
+   Description . . . . . . . . . . . : Intel(R) I210 Gigabit Network Connection #5
+   Physical Address. . . . . . . . . : 00-0B-AB-FF-9E-E4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 6:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) I210 Gigabit Network Connection #6
+   Physical Address. . . . . . . . . : 00-0B-AB-FF-9E-E5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 8:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) I210 Gigabit Network Connection #8
+   Physical Address. . . . . . . . . : 00-0B-AB-FF-9E-E6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 7:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) I210 Gigabit Network Connection #7
+   Physical Address. . . . . . . . . : 00-0B-AB-FF-9E-E7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::31d5:4d92:9399:e240%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.20.12.219(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 13 April 2020 12:29:23 AM
+   Lease Expires . . . . . . . . . . : Saturday, 16 May 2020 9:31:46 PM
+   Default Gateway . . . . . . . . . : 172.20.12.1
+   DHCP Server . . . . . . . . . . . : 172.20.12.1
+   DHCPv6 IAID . . . . . . . . . . . : 67111851
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-25-B7-29-CB-00-0B-AB-FF-7E-9E
+   DNS Servers . . . . . . . . . . . : 172.20.2.122
+                                       172.20.2.121
+   NetBIOS over Tcpip. . . . . . . . : Enabled
