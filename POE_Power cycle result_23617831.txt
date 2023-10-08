@@ -1,0 +1,1013 @@
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto          Fault       low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+Disabling POE
+POE Disabled
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      0 Watts (0%)          95         Disable     56
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                              Never           Off        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE OFF!
+Activating POE
+POE activated
+
+Port based power-limit mode
+Inrush Test: Enable
+Legacy Mode: Enable
+
+Unit  Power  Nominal Power   Consumed Power   Usage Threshold   Traps   Temp (C)
+---- ------- ------------- ------------------ --------------- --------- --------
+ 1     On      124 Watts      2 Watts (2%)          95         Disable     57
+
+
+  Port      Powered Device         State          Status    Priority   Class
+-------- -------------------- ---------------- ------------ -------- ---------
+  gi1                               Auto        Searching     low     class4
+  gi2                               Auto        Searching     low     class4
+  gi3                               Auto        Searching     low     class4
+  gi4                               Auto        Searching     low     class4
+  gi5                               Auto            On        low     class1
+  gi6                               Auto        Searching     low     class4
+  gi7                               Auto        Searching     low     class4
+  gi8                               Auto        Searching     low     class4
+
+POE ON!
+Connected device:  acA2500-14gcTRE
+Serial Number:  23617831
+SizeX:  2576
+SizeY:  1934
+Gray value of first pixel:  [128   0]
+Grab success!  Number of images grabbed: 50
+    No. of iteration Test result
+0                  1      PASSED
+1                  2      PASSED
+2                  3      PASSED
+3                  4      PASSED
+4                  5      PASSED
+..               ...         ...
+95                96      PASSED
+96                97      PASSED
+97                98      PASSED
+98                99      PASSED
+99               100      PASSED
+
+[100 rows x 2 columns]
+Test ended at :  05/10/2021_20:33:19
+Total test time:  0:50:42.366977 <---(H:MM:SS.xxx)
