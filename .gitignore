@@ -1,0 +1,9 @@
+# .gitignore
+
+# Exclude virtual environment directories
+venv/
+env/
+.venv/
+
+baslerCam_QuickTester.pptx
+~$baslerCam_QuickTester.pptx

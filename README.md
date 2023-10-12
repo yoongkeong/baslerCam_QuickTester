@@ -1,25 +1,20 @@
-# basler_CQT_lite
-A Basler Camera Quick Tester lite version with limited functions based on pypylon
+# **baslerCam_QuickTester**
+**A Basler Camera (ace USB, GigE) quick testing tool via pypython**
 
-## Requirement
-Please read requirement here  https://github.com/basler/pypylon
+*Note: This program is unofficial and experimental; kindly refrain from using it for commercial purposes.*
 
-### Basler RMA Failure Categories
-<details>
-  <summary>T as Technical https://www.baslerweb.com/en/sales-support/after-sales-services/rma-process/technical-request/ </summary>
-  
-  ### T1: Problems with camera cleanness
-  * Camera sends normal images but spots are seen within images or by visual inspection.
-Every Basler camera is tested for dirt/defects in the optical path during the production test procedure according to the sensor specification.
-  ### T2: Image from camera does not look like expected
-  * Camera is picked up and reacting OK but live image looks bad - systematic patterns.
-  ### T3: Problems with I/O port of the camera
-  * Camera is picked up and reacting OK in free run mode but external triggering / flash control is not working.
-  ### T4: Camera is not detected
-  * Camera is not reachable, not reacting, or LED off.
-  ### T5: Camera behavior
-  * Settings cannot be adjusted at all or not within the expected range. Camera won’t reach the specified limits.
-  </details>
-  
- ## Implementation
- To be defined later
+## **Test Mode**
+- **Test Mode 1:** Power ON test
+- **Test Mode 2:** Device Information reading
+- **Test Mode 3:** Image acquisition
+- **Test Mode 4:** Transport layer topology (USB & GigE)
+- **Test Mode 5:** I/O Test
+
+## **Functional Module**
+- **Module 1:** Power cycle test
+- **Module 2:** Long Run test
+- **Module 3:** Over-temperature & Test image test
+
+
+*Experimenting flow chart creation via Graphviz, file located >> *
+*Read more information about faulty camera at Basler [here](https://www.baslerweb.com/en/support/rma/technical-request/).*
