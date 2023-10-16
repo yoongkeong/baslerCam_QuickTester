@@ -1,6 +1,7 @@
 from pypylon import pylon
 from datetime import datetime
 import time
+import csv
 
 # Function to detect and access the camera
 def detect_and_access_camera(max_wait_time):
@@ -8,14 +9,21 @@ def detect_and_access_camera(max_wait_time):
         # Record the start time
         start_time = datetime.now()
 
-        camera = None
+        tlf = pylon.TlFactory.GetInstance()
+        tl = tlf.CreateTl("BaslerGigE")
 
         # Keep trying to detect the camera until the max waiting time is reached
         while (datetime.now() - start_time).total_seconds() < max_wait_time:
             try:
                 # Create an instant camera object
-                camera = pylon.InstantCamera(pylon.TlFactory.GetInstance().CreateFirstDevice())
+                camera = pylon.InstantCamera()
 
+                # instantiate the first device on the transport layer
+                dev = tl.CreateFirstDevice()
+
+                # attach the device to the InstantCamera class
+                camera.attach(dev)
+                
                 # Open the camera
                 camera.Open()
 
@@ -34,10 +42,24 @@ def detect_and_access_camera(max_wait_time):
                 detection_delay = detection_time - start_time
                 print(f"Camera detection delay: {detection_delay}")
 
-                # You can add additional actions here if needed
+                # Save the results to a CSV file
+                with open('\Test Result\camera_detection_results.csv', mode='w', newline='') as file:
+                    writer = csv.writer(file)
+                    writer.writerow(["Detected camera", "Serial Number", "Start Time", "Detection Time", "Camera detection delay"])
+                    writer.writerow([model, serial_number, start_time.strftime('%H:%M:%S'), detection_time.strftime('%H:%M:%S'), str(detection_delay)])
 
+                # You can add additional actions here if needed
                 # Close the camera
                 camera.Close()
+
+                # detach the the device from the InstantCamera and release the device with the returned device handle
+                tl.DestroyDevice(camera.DetachDevice())
+
+                # unload the transport layer
+                tlf.ReleaseTl(tl)
+
+                time.sleep(3)
+
                 return True
             except pylon.GenericException as e:
                 if (datetime.now() - start_time).total_seconds() < max_wait_time:
@@ -45,8 +67,14 @@ def detect_and_access_camera(max_wait_time):
                 else:
                     print(f"An error occurred: {e}")
                     return False
+        # delete the now empty python objects to prevent further access from python side
+        del camera
+        del dev
+        del tl
+        # now all references to the transport layer hardware are released.
     except Exception as e:
-        print(f"An error occurred: {e}")
+        errorMessage = f"An error occurred: {e}"
+        print(errorMessage)
         return False
 
 # Main function for Test Mode 1: Power On test
@@ -66,4 +94,3 @@ def power_on_test():
 
 if __name__ == '__main__':
     power_on_test()
- 
